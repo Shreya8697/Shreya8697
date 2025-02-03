@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on My Crypto Trading Website and College Media<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React JS, MongoDB, Tailwind, Node, Python<br>💬 Ask me anything maybe I will solve your errors..<br>⚡ Fun fact You and I Both Are learning :)
 
-![Old GitHub Account]([github.png](https://photos.app.goo.gl/jNCzkhnC3qRpySKF8))
+![Old GitHub Account](https://photos.app.goo.gl/jNCzkhnC3qRpySKF8)
+
 
 ⚠ **Important Note:**  
 This image shows my old GitHub account, where I had uploaded all my projects from 2024. Unfortunately, that account was hacked, and it is no longer visible to the public.
