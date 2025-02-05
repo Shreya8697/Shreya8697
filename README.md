@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on My Crypto Trading Website and College Media<br>🌱 I’m currently learning React JS, MongoDB, Tailwind, Node, and Python<br>💬 Ask me anything maybe I will solve your errors..<br>⚡ Fun fact You and I Both Are learning :)
 
-Check out my LinkedIn page every project form 2024 is updated there 
+Check out my LinkedIn page every project from 2024 is updated there 
 
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)
 
