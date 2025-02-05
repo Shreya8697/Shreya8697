@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Crypto Trading Website and College Media<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React JS, MongoDB, Tailwind, Node, Python<br>💬 Ask me anything maybe I will solve your errors..<br>⚡ Fun fact You and I Both Are learning :)
+🔭 I’m currently working on My Crypto Trading Website and College Media<br>🌱 I’m currently learning React JS, MongoDB, Tailwind, Node, and Python<br>💬 Ask me anything maybe I will solve your errors..<br>⚡ Fun fact You and I Both Are learning :)
 
 Check out my LinkedIn page every project form 2024 is updated there 
 
