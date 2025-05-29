@@ -1,93 +1,83 @@
-# ⚡ **Hey there, Fun Fact:** You and I both are learning!
+# 👋 Hi, I'm Shreya Gupta 
 
-## 💻 **Tech Stack**:  
-Let's dive into some of the technologies I work with!
+`💻 Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer`
 
-[![ReactJs](https://img.shields.io/badge/Tech%20Stack-%23F7DF1E.svg?logo=react&logoColor=white)](https://reactjs.org/) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Turning+Coffee+Into+Code;Full+Stack+Developer;Open+Source+Contributor;Tech+Blogger)
 
----
+</div>
 
-## 📣 **Check out my LinkedIn** for the latest projects (Including some cool *ClgMedia* stuff)!
+## 🛠️ Tech Stack
 
-🔗 **LinkedIn**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)
+<div align="center">
+  
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Frontend**   | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Backend**    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Database**   | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **DevOps**     | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
----
+</div>
 
-## 🖼️ **Old GitHub Account (Hacked)** 😔  
-**Important Note:**  
-The image below shows my old GitHub account, which was hacked and is no longer accessible. All my projects from 2024 were uploaded there, but unfortunately, it is no longer available to the public.
+## 📊 GitHub Stats
 
-<a href="https://postimg.cc/ZWHRmrfT">
-  <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="800" height="400" style="border-radius: 8px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1);"/>
-</a>
+<div align="center">
+  
+[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya8697&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Shreya8697)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya8697&layout=compact&theme=radical&hide_border=true)](https://github.com/Shreya8697)
 
-## 🌐 **Social Links** 📱:
-Here’s where you can connect with me:  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shreya8697&theme=radical)](https://git.io/streak-stats)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyagupta_94s)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shreyag09068957)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@biglearnbigearn6027)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyagupta8697@gmail.com)  
+</div>
 
----
+## 🏆 Achievements
 
-## 🏆 **GitHub Stats & Achievements** 📊  
-Here’s a glimpse of what I've been working on:
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shreya8697&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-**GitHub Stats:**
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Shreya8697&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 🌐 Let's Connect
 
-**Streak Stats:**
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreya8697&theme=dark&hide_border=false)
----
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shreyag09068957)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyagupta_94s)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@biglearnbigearn6027)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyagupta8697@gmail.com)
 
-**Top Languages:**
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya8697&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📌 Pinned Projects
 
----
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[ClgMedia](https://github.com/Shreya8697/ClgMedia)** | College social media platform | React, Node.js, MongoDB |
+| **[Project 2](link)** | Short description | Tech used |
+| **[Project 3](link)** | Short description | Tech used |
 
-## 🏅 **Trophies** 🏆  
-These are some of my accomplishments:
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=Shreya8697&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💡 Fun Fact
 
----
+```javascript
+while(alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+<div align="center">
+Visitor Count
 
-## 💬 **Random Dev Quote** 💭  
-"Code is like humor. When you have to explain it, it’s bad."  
-— Cory House
+</div><div align="center">
+Snake animation
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 **Top Contributed Repositories** 🔝
-
-![](https://github-contributor-stats.vercel.app/api?username=Shreya8697&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### 🚀 **Project Showcase** 🌟
-
-Feel free to explore my projects and get a better understanding of my journey. You can always find the most recent updates on my [LinkedIn](https://linkedin.com/in/shreya-gupta8697).  
-Here are a few of my top projects:
-
-1. **Project 1**: A cool app that does X, Y, Z
-2. **Project 2**: An awesome website built with React
-3. **Project 3**: A tool using Python for task automation
-
----
-
-## 🚨 **Visitor Counter** 👀  
-Let's see how many awesome people have checked out my profile:  
-
-[![](https://visitcount.itsvg.in/api?id=Shreya8697&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-**Proudly created with GPRM** [GPRM](https://gprm.itsvg.in)
+</div> ```
