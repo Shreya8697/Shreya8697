@@ -53,6 +53,18 @@
 
 </div>
 
+---
+
+## 🖼️ **Old GitHub Account (Hacked)** 😔  
+**Important Note:**  
+The image below shows my old GitHub account, which was hacked and is no longer accessible. All my projects from 2024 were uploaded there, but unfortunately, it is no longer available to the public.
+
+<a href="https://postimg.cc/ZWHRmrfT">
+  <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="800" height="400" style="border-radius: 8px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1);"/>
+</a>
+
+---
+
 ## 📌 Pinned Projects
 
 <div align="center">
