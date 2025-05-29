@@ -5,7 +5,7 @@ Check out my LinkedIn page every project from 2024 is updated there
 
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)
 
-![Old GitHub Account]([url=https://postimg.cc/ZWHRmrfT][img]https://i.postimg.cc/ZWHRmrfT/github.png[/img][/url])
+![Old GitHub Account](https://postimg.cc/ZWHRmrfT)
 
 
 
