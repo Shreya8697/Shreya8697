@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya8697&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Shreya8697)
 
