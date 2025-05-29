@@ -8,6 +8,8 @@ LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=
 <a href="https://postimg.cc/ZWHRmrfT">
   <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="800" height="400"/>
 </a>
+⚠ **Important Note:**  
+This image shows my old GitHub account, where I had uploaded all my projects from 2024. Unfortunately, that account was hacked, and it is no longer visible to the public.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyagupta_94s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shreyag09068957) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@biglearnbigearn6027) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyagupta8697@gmail.com) 
