@@ -25,7 +25,7 @@
 
 <div align="left">
   
-[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya8697&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Shreya8697)
+![](https://github-readme-stats.vercel.app/api?username=Shreya8697&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya8697&layout=compact&theme=radical&hide_border=true)](https://github.com/Shreya8697)
 
