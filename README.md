@@ -1,7 +1,7 @@
 
 #⚡Hey there Fun fact You and I Both Are learning :)
 
-Check out my LinkedIn page every project from 2024 is updated there 
+Check out my LinkedIn page every project from 2024 is updated there {Even my ClgMedia :) }
 
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)
 
