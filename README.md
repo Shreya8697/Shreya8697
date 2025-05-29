@@ -6,9 +6,7 @@ Check out my LinkedIn page every project from 2024 is updated there
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-gupta8697)
 
 <a href="https://postimg.cc/ZWHRmrfT">
-  <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="600"/>
-  ⚠ **Important Note:**  
-This image shows my old GitHub account, where I had uploaded all my projects from 2024. Unfortunately, that account was hacked, and it is no longer visible to the public.
+  <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="800" height="400"/>
 </a>
 
 ## 🌐 Socials:
