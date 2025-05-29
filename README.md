@@ -3,7 +3,7 @@
 ## 💻 **Tech Stack**:  
 Let's dive into some of the technologies I work with!
 
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-%23F7DF1E.svg?logo=react&logoColor=white)](https://reactjs.org/) 
+[![ReactJs](https://img.shields.io/badge/Tech%20Stack-%23F7DF1E.svg?logo=react&logoColor=white)](https://reactjs.org/) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -40,8 +40,8 @@ Here’s a glimpse of what I've been working on:
 **GitHub Stats:**
 
 ![](https://github-readme-stats.vercel.app/api?username=Shreya8697&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-**Streak Stats:**
 
+**Streak Stats:**
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreya8697&theme=dark&hide_border=false)
 ---
 
