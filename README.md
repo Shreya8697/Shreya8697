@@ -77,19 +77,3 @@ The image below shows my old GitHub account, which was hacked and is no longer a
 
 </div> -->
 
-## 💡 Fun Fact 
-
-```javascript
-while(alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-<div align="center">
-Visitor Count
-
-</div><div align="center">
-Snake animation
-
-</div> ```
