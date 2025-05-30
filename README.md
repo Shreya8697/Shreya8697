@@ -27,7 +27,7 @@
   
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreya8697&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya8697&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya8697&layout=compact&theme=radical&hide_border=false" />
   <img src="https://streak-stats.demolab.com/?user=Shreya8697&theme=radical" />
 </div>
 
