@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreya Gupta 
 
-`💻 Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer`
+`🌐 Web Developer` | `💻 Soon Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer`
 
 <div align="left">
   
