@@ -4,7 +4,7 @@
 
 <div align="left">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Turning+Coffee+Into+Code;Full+Stack+Developer;Open+Source+Contributor;Tech+Blogger)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Turning+Coffee+Into+Code;Soon +Full+Stack+Developer;Open+Source+Contributor;Tech+Blogger;Web+Developer,)
 
 </div>
 
