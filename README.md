@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreya Gupta 
 
-`🌐 Web Developer` | `💻 Soon Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer` | ` Video Editor`
+`🌐 Web Developer` | `💻 Soon Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer` | `📷 Video Editor`
 
 <div align="left">
   
@@ -46,8 +46,7 @@
 
 ---
 
-## 🖼️ **Old GitHub Account (Hacked)** 😔  
-**Important Note:**  
+## 🖼️ **Old GitHub Account (Hacked)** 😔   
 The image below shows my old GitHub account, which was hacked and is no longer accessible. All my projects from 2024 were uploaded there, but unfortunately, it is no longer available to the public.
 
 <a href="https://postimg.cc/ZWHRmrfT">
