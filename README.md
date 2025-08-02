@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreya Gupta 
 
-`🌐 Web Developer` | `💻 Soon Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer`
+`🌐 Web Developer` | `💻 Soon Full Stack Developer` | `🎨 UI/UX Enthusiast` | `🚀 Tech Explorer` | ` Video Editor`
 
 <div align="left">
   
@@ -33,14 +33,6 @@
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shreya8697&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -59,7 +51,7 @@
 The image below shows my old GitHub account, which was hacked and is no longer accessible. All my projects from 2024 were uploaded there, but unfortunately, it is no longer available to the public.
 
 <a href="https://postimg.cc/ZWHRmrfT">
-  <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="800" height="400" style="border-radius: 8px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1);"/>
+  <img src="https://i.postimg.cc/cJy8Qhw8/github.png" width="600" height="300" style="border-radius: 8px; box-shadow: 0px 10px 20px rgba(0,0,0,0.1);"/>
 </a>
 
 ---
